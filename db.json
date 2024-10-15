@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": "123",
+      "first_name": "John Papa",
+      "last_name": "Doe hector",
+      "email": "johndoe@email.com",
+      "country": "AD",
+      "password": "12345678"
+    },
+    {
+      "id": "43a5",
+      "country": "BJ",
+      "email": "samerkkr@gmail.com",
+      "first_name": "Samer",
+      "last_name": "Kayali Koubeissi Rola",
+      "password": "11111111"
+    }
+  ],
+  "preferences": [
+    {
+      "id": "234",
+      "user_id": "123",
+      "primary_color": {
+        "dark": "#fafaf9",
+        "light": "#6e7c87"
+      },
+      "secondary_color": {
+        "dark": "#292524",
+        "light": "#750017"
+      },
+      "mode": "dark"
+    },
+    {
+      "id": "4232",
+      "user_id": "1b5f"
+    },
+    {
+      "id": "387b",
+      "user_id": "8f84"
+    },
+    {
+      "id": "3ca9",
+      "user_id": "43a5"
+    }
+  ]
+}
